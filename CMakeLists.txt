@@ -15,3 +15,5 @@ find_package(Qt5 COMPONENTS Core Quick Multimedia REQUIRED)
 find_package(MeuiKit)
 
 add_subdirectory(src)
+
+install(FILES cyber-recorder.desktop DESTINATION "/usr/share/applications")

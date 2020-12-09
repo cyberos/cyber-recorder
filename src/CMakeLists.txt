@@ -16,3 +16,5 @@ target_link_libraries(cyber-recorder
     Qt5::Multimedia
     MeuiKit
 )
+
+install(TARGETS cyber-recorder RUNTIME DESTINATION /usr/bin)
