@@ -5,7 +5,7 @@ Voice recorder
 ## Dependencies
 
 ```shell
-sudo pacman -S cmake qt5-base qt5-quickcontrols2 qt5-multimedia
+sudo pacman -S cmake qt5-base qt5-quickcontrols2 qt5-multimedia gst-plugins-good
 ```
 
 ## Build and Install
