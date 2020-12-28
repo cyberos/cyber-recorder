@@ -4,20 +4,16 @@ import QtQuick.Layouts 1.3
 import Recorder 1.0
 import MeuiKit 1.0 as Meui
 
-ApplicationWindow {
+Meui.Window {
     id: root
-//    width: 500
-//    height: 600
 
     minimumWidth: 400
     minimumHeight: 550
+    width: 400
+    height: 550
 
     visible: true
     title: qsTr("Recorder")
-
-    background: Rectangle {
-        color: Meui.Theme.backgroundColor
-    }
 
     HomePage {
         id: homePage
@@ -37,7 +33,7 @@ ApplicationWindow {
         }
     }
 
-    StackView {
+    content: StackView {
         id: stackView
         anchors.fill: parent
         initialItem: homePage
