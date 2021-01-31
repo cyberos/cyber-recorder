@@ -33,7 +33,7 @@ Meui.Window {
         }
     }
 
-    content: StackView {
+    StackView {
         id: stackView
         anchors.fill: parent
         initialItem: homePage
