@@ -11,7 +11,7 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-find_package(Qt5 COMPONENTS Core Quick Multimedia REQUIRED)
+find_package(Qt5 COMPONENTS Core Quick Multimedia LinguistTools REQUIRED)
 find_package(MeuiKit)
 
 add_subdirectory(src)

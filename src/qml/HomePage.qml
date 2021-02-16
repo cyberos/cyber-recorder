@@ -228,7 +228,7 @@ Item {
                 }
 
                 Button {
-                    text: qsTr("Canel")
+                    text: qsTr("Cancel")
                     onClicked: deletePromptDialog.close()
                 }
 
