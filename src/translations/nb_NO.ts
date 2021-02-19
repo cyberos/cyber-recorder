@@ -21,7 +21,7 @@
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
