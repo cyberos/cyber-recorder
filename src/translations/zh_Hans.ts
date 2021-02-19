@@ -16,12 +16,12 @@
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>
@@ -29,12 +29,12 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="108"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">完成</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
