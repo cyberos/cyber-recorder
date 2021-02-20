@@ -34,12 +34,12 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
         <source>Done</source>
-        <translation type="unfinished">Listo</translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../recordingmodel.cpp" line="18"/>
         <source>New Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva Grabación de voz</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/main.qml" line="16"/>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabador de voz</translation>
     </message>
 </context>
 </TS>
