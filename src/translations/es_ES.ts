@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Aún no hay ninguna grabación</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Confirma que quiere eliminar esta grabación?</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
