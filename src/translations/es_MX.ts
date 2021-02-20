@@ -34,7 +34,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Listo</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
