@@ -16,12 +16,12 @@
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="108"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
