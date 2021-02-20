@@ -6,22 +6,22 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin grabaciones de voz aún</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás seguro de que deseas eliminar esta grabación de voz?</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="108"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
