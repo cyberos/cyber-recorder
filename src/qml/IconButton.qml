@@ -19,9 +19,14 @@ MouseArea {
             id: colorOverlay
             anchors.fill: icon
             source: icon
-            color: "#FFFFFF"
-            opacity: 0.3
-            visible: control.pressed
+            color: "#000000"
+            opacity: control.pressed ? 0.3 : 0
+            Behavior on opacity {
+                NumberAnimation {
+                    duration: 90
+                    easing.type: Easing.InOutCubic
+                }
+            }
         }
     }
 }
