@@ -6,22 +6,22 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation type="unfinished"></translation>
+        <translation>仲未有錄音</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation type="unfinished"></translation>
+        <translation>確定要刪除錄音？</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -29,17 +29,17 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="108"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../recordingmodel.cpp" line="18"/>
         <source>New Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>新錄音</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/main.qml" line="16"/>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>錄音器</translation>
     </message>
 </context>
 </TS>
