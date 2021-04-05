@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Noch keine Aufnahmen</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sind Sie sicher, dass Sie diese Aufnahme löschen wollen?</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../recordingmodel.cpp" line="18"/>
         <source>New Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neue Aufnahme</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/main.qml" line="16"/>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schreiber</translation>
     </message>
 </context>
 </TS>
