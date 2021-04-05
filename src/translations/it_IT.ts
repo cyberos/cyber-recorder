@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nessuna registrazione ancora</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sei sicuro di voler cancellare questa registrazione?</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fatto</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../recordingmodel.cpp" line="18"/>
         <source>New Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nuova registrazione</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/main.qml" line="16"/>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registratore</translation>
     </message>
 </context>
 </TS>
