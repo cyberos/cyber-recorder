@@ -6,22 +6,22 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation type="unfinished">עדיין אין הקלטות</translation>
+        <translation>אין עדיין הקלטות</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation type="unfinished">האם אתה בטוח שברצונך למחוק את ההקלטה הזו?</translation>
+        <translation>האם אתם בטוחים שאתם רוצים למחוק את ההקלטה הזו?</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation type="unfinished">לִמְחוֹק</translation>
+        <translation>מחיקה</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
         <source>Cancel</source>
-        <translation type="unfinished">לְבַטֵל</translation>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
@@ -29,17 +29,17 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="108"/>
         <source>Name</source>
-        <translation type="unfinished">שֵׁם</translation>
+        <translation>שם</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
         <source>Done</source>
-        <translation type="unfinished">בוצע</translation>
+        <translation>סיום</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
         <source>Delete</source>
-        <translation type="unfinished">לִמְחוֹק</translation>
+        <translation>מחיקה</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/main.qml" line="16"/>
         <source>Recorder</source>
-        <translation type="unfinished">מַקלִיט</translation>
+        <translation>מקליט</translation>
     </message>
 </context>
 </TS>
