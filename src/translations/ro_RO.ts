@@ -39,7 +39,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
         <source>Delete</source>
-        <translation>Șterge</translation>
+        <translation type="unfinished">Ștergeți</translation>
     </message>
 </context>
 <context>
