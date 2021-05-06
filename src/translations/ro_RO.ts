@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation>Sigur dorești să ștergi această înregistrare?</translation>
+        <translation type="unfinished">Sunteți sigur că doriți să ștergeți această înregistrare?</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
