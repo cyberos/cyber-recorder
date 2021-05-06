@@ -29,7 +29,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="108"/>
         <source>Name</source>
-        <translation>Nume</translation>
+        <translation type="unfinished">Nume</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
