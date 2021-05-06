@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation>Nicio înregistrare încă</translation>
+        <translation type="unfinished">Nicio înregistrare încă</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
