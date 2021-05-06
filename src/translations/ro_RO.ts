@@ -21,7 +21,7 @@
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
         <source>Cancel</source>
-        <translation>Anulează</translation>
+        <translation type="unfinished">Anulează</translation>
     </message>
 </context>
 <context>
