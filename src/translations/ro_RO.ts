@@ -16,7 +16,7 @@
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation>Șterge</translation>
+        <translation type="unfinished">Ștergeți</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
