@@ -47,7 +47,7 @@
     <message>
         <location filename="../recordingmodel.cpp" line="18"/>
         <source>New Recording</source>
-        <translation>Nouă Înregistrare</translation>
+        <translation type="unfinished">Înregistrare nouă</translation>
     </message>
 </context>
 <context>
