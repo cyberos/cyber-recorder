@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation>倘無錄音</translation>
+        <translation>尚無錄音</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation>確定要刪除錄音？</translation>
+        <translation>您是否確定要刪除這個錄音？</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
