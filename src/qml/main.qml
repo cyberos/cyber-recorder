@@ -22,9 +22,7 @@ Meui.Window {
 
         Label {
             text: root.title
-            // TODO: Make this a separate variable in Meui.Theme,
-            //       maybe Meui.Theme.titleBarTextColor?
-            color: Meui.Theme.darkMode ? "#cacbce" : "#383838"
+            color: Meui.Theme.titleBarTextColor
             anchors.fill: parent
             horizontalAlignment: Text.AlignHCenter
         }
