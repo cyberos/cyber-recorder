@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_Hans">
+<TS version="2.1" language="zh_TW">
 <context>
     <name>HomePage</name>
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation>暂无录音</translation>
+        <translation>倘無錄音</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation>您确定要删除此录音吗？</translation>
+        <translation>確定要刪除錄音？</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation>删除</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="108"/>
         <source>Name</source>
-        <translation>名称</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
         <source>Delete</source>
-        <translation>删除</translation>
+        <translation>刪除</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../recordingmodel.cpp" line="18"/>
         <source>New Recording</source>
-        <translation>新录音</translation>
+        <translation>新錄音</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/main.qml" line="16"/>
         <source>Recorder</source>
-        <translation>录音机</translation>
+        <translation>錄音器</translation>
     </message>
 </context>
 </TS>
