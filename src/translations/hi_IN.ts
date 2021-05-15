@@ -34,7 +34,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="124"/>
         <source>Done</source>
-        <translation>किया है</translation>
+        <translation type="unfinished">हो गया</translation>
     </message>
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
