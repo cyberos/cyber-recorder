@@ -6,17 +6,17 @@
     <message>
         <location filename="../qml/HomePage.qml" line="40"/>
         <source>No recordings yet</source>
-        <translation type="unfinished">अहिलेसम्म कुनै रेकर्डि। छैन</translation>
+        <translation>अहिलेसम्म कुनै रेकर्डिङ्ग छैन</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="210"/>
         <source>Are you sure you want to delete this recording?</source>
-        <translation type="unfinished">के तपाईं पक्का यो रेकर्डि delete मेटाउन चाहानुहुन्छ?</translation>
+        <translation>के तपाईं पक्का यो रेकर्डिङ्ग मेटाउन चाहानुहुन्छ?</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="219"/>
         <source>Delete</source>
-        <translation type="unfinished">मेटाउन</translation>
+        <translation>मेटाउने</translation>
     </message>
     <message>
         <location filename="../qml/HomePage.qml" line="231"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../qml/RecordPage.qml" line="135"/>
         <source>Delete</source>
-        <translation type="unfinished">मेटाउन</translation>
+        <translation>मेटाउने</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../recordingmodel.cpp" line="18"/>
         <source>New Recording</source>
-        <translation type="unfinished">नयाँ रेकर्डि।</translation>
+        <translation>नयाँ रेकर्डिङ्ग</translation>
     </message>
 </context>
 <context>
